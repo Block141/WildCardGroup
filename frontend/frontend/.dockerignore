@@ -1,0 +1,49 @@
+# Ignore node_modules
+node_modules
+
+# Ignore build output directories
+build
+dist
+
+# Ignore Python virtual environments
+venv
+
+# Ignore Python cache files
+__pycache__
+*.pyc
+
+# Ignore environment variable files
+.env
+.env.local
+
+# Ignore log files
+*.log
+
+# Ignore version control files
+.git
+.gitignore
+
+# Ignore editor-specific files
+.vscode
+.idea
+
+# Ignore Docker files
+Dockerfile
+docker-compose.yml
+
+# Include only specific necessary directories
+/frontend
+/backend
+
+# In frontend, include only necessary files
+/frontend/*
+!/frontend/frontend
+/frontend/frontend/*
+!/frontend/frontend/package.json
+!/frontend/frontend/public
+!/frontend/frontend/src
+
+# In backend, include only necessary files
+/backend/*
+!/backend/requirements.txt
+!/backend/stock_predictor

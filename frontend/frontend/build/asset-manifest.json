@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c374805a.js",
+    "static/media/team-1.jpg": "/static/media/team-1.0fd36e0ee93dcfacdef8.jpg",
+    "static/media/team-2.jpg": "/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
+    "static/media/team-3.jpg": "/static/media/team-3.0ef0be95e6850814c79e.jpg",
+    "static/media/team-4.jpg": "/static/media/team-4.85c82b6e60178804017f.jpg",
+    "static/media/logo-slack.svg": "/static/media/logo-slack.7c47c5aa474b5c4fb39fcf05ffb8e4e7.svg",
+    "static/media/logo-xd.svg": "/static/media/logo-xd.6e37886f94dba0c2967ece68a152e30c.svg",
+    "static/media/amzn.svg": "/static/media/amzn.e8f9337624d03edc275e7e11f2b4298c.svg",
+    "static/media/logo-invision.svg": "/static/media/logo-invision.a1062115730dcd10e1c4f4abe7b9ab33.svg",
+    "static/media/intc.svg": "/static/media/intc.f223e85694e70d3b1c112a41dd91c95d.svg",
+    "static/media/logo-spotify.svg": "/static/media/logo-spotify.e83cf56c9d99a1fdf59e8deb58bbe470.svg",
+    "static/media/logo-jira.svg": "/static/media/logo-jira.c19fd4e416babfbd0fdb0a794188c601.svg",
+    "static/media/logo-atlassian.svg": "/static/media/logo-atlassian.f2b0e8570a4b4ce768854ff3dad1a6e1.svg",
+    "static/media/nvda.svg": "/static/media/nvda.12ab15de62ed4ada5400ec6ea9fe8e85.svg",
+    "static/media/fb.svg": "/static/media/fb.070fbc3c18f1087acd5c70171147f48d.svg",
+    "index.html": "/index.html",
+    "static/media/nflx.svg": "/static/media/nflx.4cbccb71c0691603b1bc3eb0f01fb572.svg",
+    "static/media/tsla.svg": "/static/media/tsla.5cc9176b575025b962349fbaceb6d495.svg",
+    "static/media/amd.svg": "/static/media/amd.42182320cb45c5ca11dcdeab68e99199.svg",
+    "main.c374805a.js.map": "/static/js/main.c374805a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c374805a.js"
+  ]
+}
